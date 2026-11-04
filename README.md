@@ -8,8 +8,8 @@ El objetivo de esta tarea fue investigar, explicar y hacer ejemplos prácticos s
 
 ### Integrantes del Grupo:
 * **Integrante 1:** [Camila Hoyos]
-* **Integrante 2:** [Yanin Mejia]
-* **Integrante 3:** [Alejandra Suesca]
+* **Integrante 2:** [AlejandraSuesca]
+* **Integrante 3:** [Yanin Mejia]
 
 ---
 
